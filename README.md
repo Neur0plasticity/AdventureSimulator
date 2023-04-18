@@ -2,7 +2,7 @@
 Pick any movie, tv show, game, whatever. And the simulator will take you on a role playing adventure.
 
 
-Step 1) Visit prompt link [AdventureSimulation](https://github.com/Neur0plasticity/AdventureSimulator/blob/main/prompt.adventuresimulator.txt)
+Step 1) Visit prompt link [AdventureSimulationPrompt](https://github.com/Neur0plasticity/AdventureSimulator/blob/main/prompt.adventuresimulator.txt)
 
 Step 2) Copy the prompt. The prompt is the text in the file.
 
