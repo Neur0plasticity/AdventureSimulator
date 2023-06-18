@@ -37,14 +37,14 @@ Here is an example of how to populate sequentialactionsofnonplayercharacters.
         character:"Rick"    
         says: "Beth, do you wanna go on an adventure with Morty and I?",
         actions: "Rick facing Beth smiling",
-        audioLink: "",
-        videoLink: "",
+        audioEffect: "",
+        videoEffect: "",
      },
     {
         character: "Beth",    
         says: "OOOhhhh Dad of course",
         actions: "Beth is filled with excitement",
-        audioLink: "",
-        videoLink: "",
+        audioEffect: "",
+        videoEffect: "",
     }
 ]
